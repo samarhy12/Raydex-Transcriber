@@ -1,0 +1,22 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+env/
+
+# Logs
+*.log
+raydex.log
+
+# Temp uploads
+/tmp/
+
+# OS
+.DS_Store
+Thumbs.db

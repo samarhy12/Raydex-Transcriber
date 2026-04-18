@@ -1,0 +1,15 @@
+{
+  "name": "Raydex Transcriber",
+  "short_name": "Raydex Tx",
+  "description": "AI audio and video transcription. Free, local, fast.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#1a7a6e",
+  "icons": [
+    { "src": "/static/images/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/static/images/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/static/images/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ],
+  "categories": ["productivity", "utilities"]
+}
